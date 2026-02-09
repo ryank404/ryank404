@@ -1,2 +1,1 @@
-Electrical and Electronic Engineering Student at the University of Canterbury, NZ
-- he/him
+Since graduating with an Electrical and Electronic Engineering degree, I've been busy developing Python software to count birds and test electronics 🐍🖥️🔋⚡😊
